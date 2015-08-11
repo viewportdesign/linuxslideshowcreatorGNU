@@ -1,6 +1,6 @@
 // SlideshowCreator (input path with pictures in it) -> Output .xml file which can be taken in Linux(e.g. Ubuntu) to use automatic slideshows on the desktop
 // Programmer:Daniel Resch
-// Programmer:
+
 
 #include <iostream>
 #include <fstream>
